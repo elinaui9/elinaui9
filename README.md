@@ -20,4 +20,4 @@ Mostly designing **SaaS products, dashboards, marketplaces, and digital platform
 
 ---
 
-<sub>clarity over noise.</sub>
+<sub>clarity over noise </sub>
