@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+  <title id="title">Elina UI/UX animated GitHub banner</title>
+  <desc id="desc">A minimal animated interface canvas where a cursor drags and snaps a card into a layout.</desc>
+
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .line { stroke:#6E7681; stroke-width:1; fill:none; }
+      .soft { stroke:#30363D; stroke-width:1; fill:none; }
+      .text { fill:#8B949E; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .card { fill:#161B22; stroke:#3B434D; stroke-width:1.2; }
+      .chip { fill:#21262D; stroke:#30363D; stroke-width:1; }
+      .accentStroke { stroke:#8B5CF6; stroke-width:1.5; fill:none; }
+    </style>
+  </defs>
+
+  <!-- transparent canvas -->
+  <g opacity="0.55">
+    <path class="soft" d="M120 70H780M120 110H780M120 150H780M120 190H780"/>
+    <path class="soft" d="M160 50V210M240 50V210M320 50V210M400 50V210M480 50V210M560 50V210M640 50V210M720 50V210"/>
+  </g>
+
+  <text x="120" y="30" class="text" font-size="12" letter-spacing="2.2">ELINA / PRODUCT DESIGN</text>
+  <text x="780" y="30" class="text" font-size="11" text-anchor="end" opacity=".8">drag • snap • refine</text>
+
+  <!-- canvas frame -->
+  <rect x="110" y="44" width="680" height="176" rx="18" fill="#0D1117" stroke="#30363D"/>
+
+  <!-- destination slot -->
+  <rect x="505" y="86" width="184" height="92" rx="14" fill="none" stroke="#8B5CF6" stroke-dasharray="7 7" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.7;0.7;0" keyTimes="0;0.24;0.38;0.76;1" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- card being dragged -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0;0 0;325 18;325 18;325 18;0 0"
+      keyTimes="0;0.18;0.46;0.72;0.86;1"
+      dur="7s" repeatCount="indefinite"/>
+
+    <rect x="180" y="68" width="184" height="92" rx="14" class="card"/>
+    <rect x="196" y="84" width="86" height="9" rx="4.5" fill="#C9D1D9" opacity=".9"/>
+    <rect x="196" y="101" width="122" height="6" rx="3" fill="#6E7681"/>
+    <rect x="196" y="113" width="98" height="6" rx="3" fill="#6E7681" opacity=".72"/>
+    <rect x="196" y="132" width="54" height="18" rx="9" class="chip"/>
+    <text x="223" y="145" class="text" font-size="9" text-anchor="middle">CARD</text>
+
+    <!-- selection ring appears while dragging -->
+    <rect x="176" y="64" width="192" height="100" rx="18" class="accentStroke" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.16;0.24;0.68;0.82;1" dur="7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- secondary layout pieces -->
+  <rect x="404" y="82" width="76" height="36" rx="10" class="card" opacity=".78"/>
+  <rect x="404" y="128" width="76" height="36" rx="10" class="card" opacity=".55"/>
+
+  <!-- snap pulse -->
+  <circle cx="598" cy="132" r="8" fill="none" stroke="#A78BFA" opacity="0">
+    <animate attributeName="r" values="8;8;34;48" keyTimes="0;0.54;0.66;0.74" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;0.7;0" keyTimes="0;0.54;0.58;0.74" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- status -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;0;1;1;0" keyTimes="0;0.56;0.64;0.72;0.88;1" dur="7s" repeatCount="indefinite"/>
+    <rect x="620" y="188" width="89" height="22" rx="11" fill="#17121F" stroke="#5B3A8D"/>
+    <circle cx="634" cy="199" r="3.5" fill="#A78BFA"/>
+    <text x="647" y="203" class="text" font-size="9">SNAPPED</text>
+  </g>
+
+  <!-- cursor -->
+  <g filter="url(#softGlow)">
+    <animateTransform attributeName="transform" type="translate"
+      values="-55 118;40 118;110 82;388 112;388 112;455 150;455 150"
+      keyTimes="0;0.12;0.22;0.48;0.68;0.84;1"
+      dur="7s" repeatCount="indefinite"/>
+    <path d="M0 0 L0 24 L6.8 17.3 L12.7 29 L18.2 26.2 L12.5 15.1 L22.3 14 Z"
+      fill="#F0F6FC" stroke="#0D1117" stroke-width="1.4"/>
+    <circle cx="6" cy="7" r="2.8" fill="#8B5CF6" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.18;0.25;0.64;0.74;1" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- tiny footer -->
+  <text x="120" y="234" class="text" font-size="10" opacity=".7">clarity over noise.</text>
+</svg>
