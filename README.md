@@ -2,13 +2,22 @@
   <img src="./elina-ui-motion.svg" width="100%" />
 </p>
 
-# Hi, I'm Elina
+# Hi, I'm Elina.
 
-I design thoughtful digital products with a focus on clarity, usability, and beautiful interaction.
-### Focus
+**UI/UX & Product Designer** focused on clear systems, thoughtful interactions, and interfaces that feel effortless.
 
-`Product Design` · `UI/UX` · `Design Systems` · `Prototyping` · `Figma`
+I spend most of my time turning messy product problems into calm, usable digital experiences.
 
-### Elsewhere
+### What I do
 
-[Portfolio]([https://elinaui.com](https://elinaui.com)) · [Dribbble](https://dribbble.com/Elinaui) · [Behance](https://www.behance.net/elinam7) · [Instagram](https://instagram.com/elinaui9)
+`Product Design` · `UI/UX` · `Design Systems` · `Prototyping`
+
+Mostly designing **SaaS products, dashboards, marketplaces, and digital platforms** in Figma.
+
+### Find me
+
+[Portfolio](https://elinaui.com/) · [Dribbble](https://dribbble.com/Elinaui) · [Behance](https://www.behance.net/elinam7) · [LinkedIn](https://www.linkedin.com/in/elinaui) · [Instagram](https://instagram.com/elina.ui9)
+
+---
+
+<sub>clarity over noise.</sub>
