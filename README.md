@@ -12,4 +12,4 @@ Currently working across product design, SaaS, marketplaces, and design systems.
 
 ### Elsewhere
 
-[Portfolio](https://yourportfolio.com) · [Dribbble](https://dribbble.com/yourusername) · [Behance](https://behance.net/yourusername) · [Instagram](https://instagram.com/yourusername)
+[Portfolio]([https://elinaui.com](https://elinaui.com)) · [Dribbble](https://dribbble.com/Elinaui) · [Behance](https://www.behance.net/elinam7) · [Instagram](https://instagram.com/elinaui9)
