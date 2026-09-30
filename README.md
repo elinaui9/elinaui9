@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./elina-ui-wireframe.svg" width="100%" />
 </p>
+
 # Hi, I'm Elina ✦
 
 **UI/UX & Product Designer** focused on clear systems, thoughtful interactions, and interfaces that feel effortless.
@@ -30,6 +31,3 @@ Mostly designing **SaaS products, dashboards, marketplaces, and digital platform
 <a href="https://instagram.com/elina.ui9">
   <img src="https://img.shields.io/badge/Instagram-161B22?style=flat&logo=instagram&logoColor=A78BFA" />
 </a>
----
-
-<sub>clarity over noise </sub>
