@@ -1,4 +1,6 @@
-# Hi, I'm Elina ✦
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=500&lines=Product+Designer;UI%2FUX+Designer;Design+Systems;Making+pixels+behave." />
+</p># Hi, I'm Elina ✦
 
 **Product Designer · UI/UX · Design Systems**
 
