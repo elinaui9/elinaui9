@@ -34,6 +34,8 @@ Mostly designing **SaaS products, dashboards, marketplaces, and digital platform
 <a href="https://instagram.com/elina.ui9">
   <img src="https://img.shields.io/badge/Instagram-161B22?style=flat&logo=instagram&logoColor=A78BFA" alt="Instagram" />
 </a>
+<br><br>
+
 <p align="center">
-  <img src="./elina-run.gif" height="55" alt="Elina and bunny running" />
+  <img src="./elina-run-ultra-smooth.gif" height="75" alt="Elina running" />
 </p>
