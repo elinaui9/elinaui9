@@ -19,6 +19,9 @@ Mostly designing **SaaS products, dashboards, marketplaces, and digital platform
 <a href="https://elinaui.com/">
   <img src="https://img.shields.io/badge/Portfolio-161B22?style=flat&logo=googlechrome&logoColor=A78BFA" alt="Portfolio" />
 </a>
+<a href="https://www.figma.com/@elinaui9">
+  <img src="https://img.shields.io/badge/Figma-161B22?style=flat&logo=figma&logoColor=A78BFA" alt="Figma" />
+</a>
 <a href="https://dribbble.com/Elinaui">
   <img src="https://img.shields.io/badge/Dribbble-161B22?style=flat&logo=dribbble&logoColor=A78BFA" alt="Dribbble" />
 </a>
