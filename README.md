@@ -17,17 +17,17 @@ Mostly designing **SaaS products, dashboards, marketplaces, and digital platform
 ### Elsewhere
 
 <a href="https://elinaui.com/">
-  <img src="https://img.shields.io/badge/Portfolio-161B22?style=flat&logo=googlechrome&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Portfolio-161B22?style=flat&logo=googlechrome&logoColor=A78BFA" alt="Portfolio" />
 </a>
 <a href="https://dribbble.com/Elinaui">
-  <img src="https://img.shields.io/badge/Dribbble-161B22?style=flat&logo=dribbble&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Dribbble-161B22?style=flat&logo=dribbble&logoColor=A78BFA" alt="Dribbble" />
 </a>
 <a href="https://www.behance.net/elinam7">
-  <img src="https://img.shields.io/badge/Behance-161B22?style=flat&logo=behance&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Behance-161B22?style=flat&logo=behance&logoColor=A78BFA" alt="Behance" />
 </a>
 <a href="https://www.linkedin.com/in/elinaui">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat&logo=linkedin&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/elina.ui9">
-  <img src="https://img.shields.io/badge/Instagram-161B22?style=flat&logo=instagram&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Instagram-161B22?style=flat&logo=instagram&logoColor=A78BFA" alt="Instagram" />
 </a>
