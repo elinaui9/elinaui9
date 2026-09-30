@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=500&lines=Product+Designer;UI%2FUX+Designer;Design+Systems;Making+pixels+behave." />
-</p># Hi, I'm Elina ✦
+# Hi, I'm Elina
 
-**Product Designer · UI/UX · Design Systems**
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=2500&pause=800&color=8B949E&vCenter=true&width=420&height=30&lines=Product+Designer;UI%2FUX+Designer;Design+Systems;Making+pixels+behave." />
+</p>
 
 I design thoughtful digital products with a focus on clarity, usability, and beautiful interaction.
-
-Currently working across product design, SaaS, marketplaces, and design systems.
 
 ### Focus
 
