@@ -2,7 +2,7 @@
   <img src="./elina-ui-motion.svg" width="100%" />
 </p>
 
-# Hi, I'm Elina.
+# Hi, I'm Elina ✦
 
 **UI/UX & Product Designer** focused on clear systems, thoughtful interactions, and interfaces that feel effortless.
 
