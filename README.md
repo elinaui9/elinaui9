@@ -1,11 +1,10 @@
-# Hi, I'm Elina
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=2500&pause=800&color=8B949E&vCenter=true&width=420&height=30&lines=Product+Designer;UI%2FUX+Designer;Design+Systems;Making+pixels+behave." />
+<p align="center">
+  <img src="./elina-ui-motion.svg" width="100%" />
 </p>
 
-I design thoughtful digital products with a focus on clarity, usability, and beautiful interaction.
+# Hi, I'm Elina
 
+I design thoughtful digital products with a focus on clarity, usability, and beautiful interaction.
 ### Focus
 
 `Product Design` · `UI/UX` · `Design Systems` · `Prototyping` · `Figma`
