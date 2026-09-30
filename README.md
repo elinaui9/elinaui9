@@ -14,7 +14,7 @@ I spend most of my time turning messy product problems into calm, usable digital
 
 Mostly designing **SaaS products, dashboards, marketplaces, and digital platforms** in Figma.
 
-### Find me
+### Elsewhere
 
 [Portfolio](https://elinaui.com/) · [Dribbble](https://dribbble.com/Elinaui) · [Behance](https://www.behance.net/elinam7) · [LinkedIn](https://www.linkedin.com/in/elinaui) · [Instagram](https://instagram.com/elina.ui9)
 
