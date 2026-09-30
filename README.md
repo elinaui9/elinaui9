@@ -15,8 +15,21 @@ Mostly designing **SaaS products, dashboards, marketplaces, and digital platform
 
 ### Elsewhere
 
-[Portfolio](https://elinaui.com/) · [Dribbble](https://dribbble.com/Elinaui) · [Behance](https://www.behance.net/elinam7) · [LinkedIn](https://www.linkedin.com/in/elinaui) · [Instagram](https://instagram.com/elina.ui9)
-
+<a href="https://elinaui.com/">
+  <img src="https://img.shields.io/badge/Portfolio-161B22?style=flat&logo=googlechrome&logoColor=A78BFA" />
+</a>
+<a href="https://dribbble.com/Elinaui">
+  <img src="https://img.shields.io/badge/Dribbble-161B22?style=flat&logo=dribbble&logoColor=A78BFA" />
+</a>
+<a href="https://www.behance.net/elinam7">
+  <img src="https://img.shields.io/badge/Behance-161B22?style=flat&logo=behance&logoColor=A78BFA" />
+</a>
+<a href="https://www.linkedin.com/in/elinaui">
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat&logo=linkedin&logoColor=A78BFA" />
+</a>
+<a href="https://instagram.com/elina.ui9">
+  <img src="https://img.shields.io/badge/Instagram-161B22?style=flat&logo=instagram&logoColor=A78BFA" />
+</a>
 ---
 
 <sub>clarity over noise </sub>
