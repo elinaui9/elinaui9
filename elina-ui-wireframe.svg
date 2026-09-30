@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+  <title id="title">Elina animated design banner</title>
+  <desc id="desc">A minimal animated design workflow: wireframe guides appear, a frame becomes a polished UI card, and a cursor adjusts spacing.</desc>
+
+  <defs>
+    <style>
+      .bg { fill:#0D1117; }
+      .frame { fill:none; stroke:#30363D; stroke-width:1.2; }
+      .soft { fill:#161B22; stroke:#2F3942; stroke-width:1; }
+      .line { stroke:#6E7681; stroke-width:1; fill:none; }
+      .muted { fill:#8B949E; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .accent { fill:#A78BFA; }
+      .accent-stroke { stroke:#A78BFA; stroke-width:1.5; fill:none; }
+      .light { fill:#C9D1D9; }
+      .chip { fill:#21262D; stroke:#30363D; stroke-width:1; }
+    </style>
+  </defs>
+
+  <rect width="900" height="240" fill="transparent"/>
+  <text x="125" y="28" class="muted" font-size="12" letter-spacing="2.1">ELINA / INTERFACE DESIGN</text>
+  <text x="770" y="28" class="muted" font-size="11" text-anchor="end" opacity=".8">wireframe • refine • align</text>
+
+  <rect x="110" y="42" width="680" height="176" rx="18" class="frame"/>
+
+  <!-- guides -->
+  <g opacity="0.42">
+    <path class="frame" d="M140 72H760M140 104H760M140 136H760M140 168H760"/>
+    <path class="frame" d="M220 58V202M320 58V202M420 58V202M520 58V202M620 58V202M720 58V202"/>
+  </g>
+
+  <!-- card -->
+  <g>
+    <rect x="182" y="77" width="242" height="98" rx="16" class="soft"/>
+
+    <!-- wireframe overlay fades out -->
+    <g opacity="1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.24;0.4;0.86;1" dur="7s" repeatCount="indefinite"/>
+      <rect x="198" y="94" width="98" height="11" rx="5.5" fill="none" stroke="#6E7681" stroke-dasharray="4 4"/>
+      <rect x="198" y="115" width="146" height="7" rx="3.5" fill="none" stroke="#6E7681" stroke-dasharray="4 4"/>
+      <rect x="198" y="129" width="116" height="7" rx="3.5" fill="none" stroke="#6E7681" stroke-dasharray="4 4"/>
+      <rect x="198" y="145" width="58" height="18" rx="9" fill="none" stroke="#6E7681" stroke-dasharray="4 4"/>
+    </g>
+
+    <!-- polished UI fades in -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.22;0.42;0.86;1" dur="7s" repeatCount="indefinite"/>
+      <rect x="198" y="94" width="103" height="11" rx="5.5" class="light"/>
+      <rect x="198" y="115" width="150" height="7" rx="3.5" fill="#6E7681"/>
+      <rect x="198" y="129" width="118" height="7" rx="3.5" fill="#6E7681" opacity=".75"/>
+      <rect x="198" y="145" width="62" height="18" rx="9" class="chip"/>
+      <text x="229" y="158" class="muted" font-size="9" text-anchor="middle">FRAME</text>
+    </g>
+  </g>
+
+  <!-- right side layout blocks -->
+  <g>
+    <rect x="510" y="84" width="98" height="26" rx="10" class="soft"/>
+    <rect x="510" y="118" width="138" height="22" rx="10" class="soft"/>
+    <rect x="510" y="148" width="76" height="22" rx="10" class="soft"/>
+
+    <!-- measurement lines animate -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.34;0.5;0.78;1" dur="7s" repeatCount="indefinite"/>
+      <path d="M486 97H505" class="accent-stroke"/>
+      <path d="M486 129H505" class="accent-stroke"/>
+      <path d="M486 159H505" class="accent-stroke"/>
+      <path d="M482 84V170" class="accent-stroke" stroke-dasharray="3 3"/>
+      <text x="474" y="128" class="muted" font-size="10" text-anchor="end">8px</text>
+    </g>
+  </g>
+
+  <!-- smart alignment pulse -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;0;1;1;0" keyTimes="0;0.42;0.48;0.62;0.76;1" dur="7s" repeatCount="indefinite"/>
+    <rect x="176" y="71" width="254" height="110" rx="20" class="accent-stroke"/>
+    <circle cx="430" cy="126" r="5" class="accent"/>
+  </g>
+
+  <!-- cursor -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="-10 0;0 0;18 0;40 0;40 0;0 0;-10 0"
+      keyTimes="0;0.14;0.32;0.52;0.72;0.88;1"
+      dur="7s" repeatCount="indefinite"/>
+    <path d="M455 116 L455 140 L462 133.2 L467.5 144.2 L473 141.4 L467.4 130.6 L477.4 129.6 Z" fill="#F0F6FC" stroke="#0D1117" stroke-width="1.4"/>
+  </g>
+
+  <!-- subtle footer -->
+  <text x="126" y="232" class="muted" font-size="10" opacity=".7">systems, spacing, and flow.</text>
+</svg>
