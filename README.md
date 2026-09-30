@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Elina ✦
 
-<!--
-**elinaui9/elinaui9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Designer · UI/UX · Design Systems**
 
-Here are some ideas to get you started:
+I design thoughtful digital products with a focus on clarity, usability, and beautiful interaction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working across product design, SaaS, marketplaces, and design systems.
+
+### Focus
+
+`Product Design` · `UI/UX` · `Design Systems` · `Prototyping` · `Figma`
+
+### Elsewhere
+
+[Portfolio](https://yourportfolio.com) · [Dribbble](https://dribbble.com/yourusername) · [Behance](https://behance.net/yourusername) · [Instagram](https://instagram.com/yourusername)
