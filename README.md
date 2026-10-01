@@ -1,6 +1,6 @@
 <!-- ░░ Header ░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C4B5FD&height=200&section=header&text=Elina&fontSize=72&fontColor=FFFFFF&fontAlignY=36&desc=UI%2FUX%20%26%20Product%20Designer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Elina — UI/UX & Product Designer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C4B5FD&height=200&section=header&text=Elina&fontSize=72&fontColor=FFFFFF&fontAlignY=36&desc=UI%2FUX%20and%20Product%20Designer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Elina — UI/UX & Product Designer" />
 </p>
 
 <p align="center">
