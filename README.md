@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./elina-ui-wireframe.svg" width="100%" />
+  <img src="./elina-ui-wireframe.svg" width="100%" alt="Elina UI design animation" />
 </p>
 
 # Hi, I'm Elina ✦
@@ -34,12 +34,13 @@ Mostly designing **SaaS products, dashboards, marketplaces, and digital platform
 <a href="https://instagram.com/elina.ui9">
   <img src="https://img.shields.io/badge/Instagram-161B22?style=flat&logo=instagram&logoColor=A78BFA" alt="Instagram" />
 </a>
+
 <br><br>
 
 <p align="center">
   <img
-    src="./assets/designer-working-transparent.gif"
-    alt="Designer working on a MacBook"
-    width="400"
+    src="./designer-working-transparent.gif"
+    width="180"
+    alt="Elina designing on her MacBook"
   />
 </p>
