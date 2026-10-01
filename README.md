@@ -36,6 +36,16 @@ Mostly designing **SaaS products, dashboards, marketplaces, and digital platform
 </a>
 <br><br>
 
+### Elsewhere
+
+<!-- badge های فعلیت اینجا -->
+
+<br>
+
 <p align="center">
-  <img src="./designer-working-transparent.gif" height="75" alt="Elina running" />
+  <img
+    src="./designer-working-transparent.gif"
+    width="180"
+    alt="Elina designing on her MacBook"
+  />
 </p>
