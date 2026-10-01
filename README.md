@@ -37,5 +37,5 @@ Mostly designing **SaaS products, dashboards, marketplaces, and digital platform
 <br><br>
 
 <p align="center">
-  <img src="./elina-run-ultra-smooth.gif" height="75" alt="Elina running" />
+  <img src="./designer-working-transparent.gif" height="75" alt="Elina running" />
 </p>
