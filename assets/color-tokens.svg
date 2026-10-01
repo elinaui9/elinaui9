@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img" aria-labelledby="t d">
+  <title id="t">Elina's color tokens</title>
+  <desc id="d">A purple color scale from 100 to 900 shown as design tokens with hex values.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A1326"/>
+      <stop offset="1" stop-color="#0F0B17"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .tok { fill:#EDE9FE; font-size:11px; }
+      .hex { fill:#6B5F86; font-size:10px; }
+      .sw { transform-box: fill-box; transform-origin: bottom; animation: pop 6s cubic-bezier(.2,.8,.2,1) infinite; }
+      @keyframes pop { 0% { transform: scaleY(.15); opacity:.2 } 12%, 88% { transform: scaleY(1); opacity:1 } 100% { transform: scaleY(.15); opacity:.2 } }
+      .c2 { animation-delay:.08s } .c3 { animation-delay:.16s } .c4 { animation-delay:.24s } .c5 { animation-delay:.32s }
+      .c6 { animation-delay:.40s } .c7 { animation-delay:.48s } .c8 { animation-delay:.56s } .c9 { animation-delay:.64s }
+      .ring { animation: ring 6s ease-in-out infinite; }
+      @keyframes ring { 0%, 20% { stroke-opacity:0 } 40%, 80% { stroke-opacity:1 } 100% { stroke-opacity:0 } }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="168" rx="20" fill="url(#bg)" stroke="#2E2442"/>
+  <text x="36" y="40" class="mono" fill="#A78BFA" font-size="12" letter-spacing="2.4">◆ COLOR TOKENS</text>
+  <text x="864" y="40" class="mono" fill="#6B5F86" font-size="11" text-anchor="end">--elina-purple / 100 → 900</text>
+
+  <g class="mono">
+    <rect class="sw"    x="36"  y="58" width="84" height="56" rx="10" fill="#EDE9FE"/>
+    <rect class="sw c2" x="128" y="58" width="84" height="56" rx="10" fill="#DDD6FE"/>
+    <rect class="sw c3" x="220" y="58" width="84" height="56" rx="10" fill="#C4B5FD"/>
+    <rect class="sw c4" x="312" y="58" width="84" height="56" rx="10" fill="#A78BFA"/>
+    <rect class="sw c5" x="404" y="58" width="84" height="56" rx="10" fill="#8B5CF6"/>
+    <rect class="sw c6" x="496" y="58" width="84" height="56" rx="10" fill="#7C3AED"/>
+    <rect class="sw c7" x="588" y="58" width="84" height="56" rx="10" fill="#6D28D9"/>
+    <rect class="sw c8" x="680" y="58" width="84" height="56" rx="10" fill="#5B21B6"/>
+    <rect class="sw c9" x="772" y="58" width="92" height="56" rx="10" fill="#4C1D95"/>
+    <!-- primary marker -->
+    <rect class="ring" x="309" y="55" width="90" height="62" rx="12" fill="none" stroke="#F5F3FF" stroke-width="1.5" stroke-dasharray="4 3"/>
+
+    <text x="44"  y="134" class="tok">100</text><text x="44"  y="150" class="hex">#EDE9FE</text>
+    <text x="136" y="134" class="tok">200</text><text x="136" y="150" class="hex">#DDD6FE</text>
+    <text x="228" y="134" class="tok">300</text><text x="228" y="150" class="hex">#C4B5FD</text>
+    <text x="320" y="134" class="tok">400 ★</text><text x="320" y="150" class="hex">#A78BFA</text>
+    <text x="412" y="134" class="tok">500</text><text x="412" y="150" class="hex">#8B5CF6</text>
+    <text x="504" y="134" class="tok">600</text><text x="504" y="150" class="hex">#7C3AED</text>
+    <text x="596" y="134" class="tok">700</text><text x="596" y="150" class="hex">#6D28D9</text>
+    <text x="688" y="134" class="tok">800</text><text x="688" y="150" class="hex">#5B21B6</text>
+    <text x="780" y="134" class="tok">900</text><text x="780" y="150" class="hex">#4C1D95</text>
+  </g>
+</svg>
