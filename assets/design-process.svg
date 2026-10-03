@@ -1,45 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-labelledby="t d">
   <title id="t">Elina's design process</title>
-  <desc id="d">An animated timeline: Discover, Define, Ideate, Prototype, Test, Deliver. A purple pulse travels through each step.</desc>
+  <desc id="d">An animated timeline: Discover, Define, Ideate, Prototype, Test, Deliver. A cream pulse travels through each step.</desc>
   <defs>
     <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#1A1326"/>
-      <stop offset="1" stop-color="#0F0B17"/>
+      <stop offset="0" stop-color="#11100E"/>
+      <stop offset="1" stop-color="#050505"/>
     </linearGradient>
     <linearGradient id="track" x1="0" x2="1">
-      <stop offset="0" stop-color="#7C3AED"/>
-      <stop offset="1" stop-color="#C4B5FD"/>
+      <stop offset="0" stop-color="#9C8E7B"/>
+      <stop offset="1" stop-color="#D8CBB7"/>
     </linearGradient>
     <radialGradient id="glow">
-      <stop offset="0" stop-color="#A78BFA" stop-opacity=".9"/>
-      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+      <stop offset="0" stop-color="#D8CBB7" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#D8CBB7" stop-opacity="0"/>
     </radialGradient>
     <style>
       .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
       .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
-      .label { fill:#EDE9FE; font-size:15px; font-weight:600; }
-      .sub { fill:#8B7FA8; font-size:10.5px; letter-spacing:.4px; }
-      .num { fill:#A78BFA; font-size:10px; letter-spacing:1.5px; }
-      .node { fill:#1E1530; stroke:#4C3A73; stroke-width:1.5; }
+      .label { fill:#F4F2ED; font-size:15px; font-weight:600; }
+      .sub { fill:#9C8E7B; font-size:10.5px; letter-spacing:.4px; }
+      .num { fill:#D8CBB7; font-size:10px; letter-spacing:1.5px; }
+      .node { fill:#11100E; stroke:rgba(156,142,123,.55); stroke-width:1.5; }
       .step { animation: lit 9s infinite; }
       .s2 { animation-delay: 1.5s; } .s3 { animation-delay: 3s; }
       .s4 { animation-delay: 4.5s; } .s5 { animation-delay: 6s; } .s6 { animation-delay: 7.5s; }
       @keyframes lit {
-        0%, 100% { fill:#1E1530; stroke:#4C3A73; }
-        4%, 14% { fill:#7C3AED; stroke:#C4B5FD; }
-        22% { fill:#2A1D45; stroke:#7C3AED; }
+        0%, 100% { fill:#11100E; stroke:rgba(156,142,123,.55); }
+        4%, 14% { fill:#9C8E7B; stroke:#D8CBB7; }
+        22% { fill:rgba(216,203,183,.22); stroke:#9C8E7B; }
       }
       .fill { animation: grow 9s linear infinite; }
       @keyframes grow { 0% { stroke-dashoffset: 650; } 85%, 100% { stroke-dashoffset: 0; } }
     </style>
   </defs>
 
-  <rect x="1" y="1" width="898" height="228" rx="20" fill="url(#card)" stroke="#2E2442"/>
-  <text x="36" y="42" class="mono" fill="#A78BFA" font-size="12" letter-spacing="2.4">◆ DESIGN PROCESS</text>
-  <text x="864" y="42" class="mono" fill="#6B5F86" font-size="11" text-anchor="end">messy problem → calm experience</text>
+  <rect x="1" y="1" width="898" height="228" rx="20" fill="url(#card)" stroke="rgba(244,242,237,.10)"/>
+  <text x="36" y="42" class="mono" fill="#D8CBB7" font-size="12" letter-spacing="2.4">◆ DESIGN PROCESS</text>
+  <text x="864" y="42" class="mono" fill="#9C8E7B" font-size="11" text-anchor="end">messy problem → calm experience</text>
 
   <!-- track -->
-  <line x1="125" y1="112" x2="775" y2="112" stroke="#2E2442" stroke-width="2"/>
+  <line x1="125" y1="112" x2="775" y2="112" stroke="rgba(244,242,237,.10)" stroke-width="2"/>
   <line x1="125" y1="112" x2="775" y2="112" stroke="url(#track)" stroke-width="2.5" stroke-linecap="round"
         stroke-dasharray="650" stroke-dashoffset="650" class="fill"/>
 
@@ -81,5 +81,5 @@
     <text x="775" y="168" class="sub mono" text-anchor="middle">systems · handoff</text>
   </g>
 
-  <text x="450" y="206" class="mono" fill="#4C3A73" font-size="10" text-anchor="middle" letter-spacing="3">↻ REPEAT UNTIL IT FEELS EFFORTLESS</text>
+  <text x="450" y="206" class="mono" fill="rgba(156,142,123,.55)" font-size="10" text-anchor="middle" letter-spacing="3">↻ REPEAT UNTIL IT FEELS EFFORTLESS</text>
 </svg>

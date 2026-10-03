@@ -3,26 +3,26 @@
   <desc id="d">Four focus areas: Product Design, UI/UX, Design Systems, Prototyping. Mostly designing SaaS products, dashboards, marketplaces and digital platforms in Figma.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#1A1326"/>
-      <stop offset="1" stop-color="#0F0B17"/>
+      <stop offset="0" stop-color="#11100E"/>
+      <stop offset="1" stop-color="#050505"/>
     </linearGradient>
     <linearGradient id="tile" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#241A38"/>
-      <stop offset="1" stop-color="#18112A"/>
+      <stop offset="0" stop-color="rgba(244,242,237,.06)"/>
+      <stop offset="1" stop-color="rgba(244,242,237,.02)"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#C4B5FD"/>
-      <stop offset="1" stop-color="#7C3AED"/>
+      <stop offset="0" stop-color="#D8CBB7"/>
+      <stop offset="1" stop-color="#9C8E7B"/>
     </linearGradient>
     <style>
       .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
       .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
-      .card { fill:url(#tile); stroke:#33264F; stroke-width:1; }
-      .title { fill:#F5F3FF; font-size:16px; font-weight:600; }
-      .desc { fill:#8B7FA8; font-size:11px; }
+      .card { fill:url(#tile); stroke:rgba(244,242,237,.12); stroke-width:1; }
+      .title { fill:#F4F2ED; font-size:16px; font-weight:600; }
+      .desc { fill:#9C8E7B; font-size:11px; }
       .ic { fill:none; stroke:url(#accent); stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
-      .chip { fill:#1E1530; stroke:#3B2D5C; }
-      .chiptxt { fill:#C4B5FD; font-size:12px; }
+      .chip { fill:#11100E; stroke:rgba(244,242,237,.16); }
+      .chiptxt { fill:#D8CBB7; font-size:12px; }
       .rise { opacity:0; animation: rise .8s cubic-bezier(.2,.8,.2,1) forwards; }
       .d1 { animation-delay:.1s } .d2 { animation-delay:.25s } .d3 { animation-delay:.4s } .d4 { animation-delay:.55s } .d5 { animation-delay:.8s }
       @keyframes rise { from { opacity:0; transform: translateY(10px); } to { opacity:1; transform: translateY(0); } }
@@ -31,8 +31,8 @@
     </style>
   </defs>
 
-  <rect x="1" y="1" width="898" height="288" rx="20" fill="url(#bg)" stroke="#2E2442"/>
-  <text x="36" y="42" class="mono" fill="#A78BFA" font-size="12" letter-spacing="2.4">◆ WHAT I DO</text>
+  <rect x="1" y="1" width="898" height="288" rx="20" fill="url(#bg)" stroke="rgba(244,242,237,.10)"/>
+  <text x="36" y="42" class="mono" fill="#D8CBB7" font-size="12" letter-spacing="2.4">◆ WHAT I DO</text>
 
   <!-- Product Design -->
   <g class="rise d1">
@@ -49,7 +49,7 @@
     <rect x="248" y="62" width="196" height="138" rx="14" class="card"/>
     <rect x="266" y="84" width="38" height="28" rx="5" class="ic" opacity=".5"/>
     <g class="float" style="animation-delay:.6s">
-      <path class="ic" d="M290 96l14 30 4-12 12-4z" fill="#7C3AED" fill-opacity=".25"/>
+      <path class="ic" d="M290 96l14 30 4-12 12-4z" fill="#9C8E7B" fill-opacity=".25"/>
     </g>
     <text x="266" y="160" class="sans title">UI / UX</text>
     <text x="266" y="180" class="sans desc">thoughtful, effortless interfaces</text>
@@ -62,7 +62,7 @@
       <rect x="478" y="84" width="14" height="14" rx="3" class="ic"/>
       <rect x="498" y="84" width="14" height="14" rx="7" class="ic"/>
       <rect x="478" y="104" width="14" height="14" rx="7" class="ic"/>
-      <rect x="498" y="104" width="14" height="14" rx="3" class="ic" fill="#7C3AED" fill-opacity=".35"/>
+      <rect x="498" y="104" width="14" height="14" rx="3" class="ic" fill="#9C8E7B" fill-opacity=".35"/>
     </g>
     <text x="478" y="160" class="sans title">Design Systems</text>
     <text x="478" y="180" class="sans desc">clear, scalable foundations</text>
@@ -82,7 +82,7 @@
 
   <!-- domains -->
   <g class="rise d5 sans">
-    <text x="36" y="240" class="mono" fill="#6B5F86" font-size="11" letter-spacing="1.5">MOSTLY DESIGNING</text>
+    <text x="36" y="240" class="mono" fill="#9C8E7B" font-size="11" letter-spacing="1.5">MOSTLY DESIGNING</text>
     <rect x="190" y="222" width="112" height="28" rx="14" class="chip"/>
     <text x="246" y="241" class="chiptxt" text-anchor="middle">SaaS products</text>
     <rect x="312" y="222" width="104" height="28" rx="14" class="chip"/>
@@ -91,8 +91,8 @@
     <text x="484" y="241" class="chiptxt" text-anchor="middle">Marketplaces</text>
     <rect x="552" y="222" width="138" height="28" rx="14" class="chip"/>
     <text x="621" y="241" class="chiptxt" text-anchor="middle">Digital platforms</text>
-    <text x="710" y="241" class="mono" fill="#6B5F86" font-size="11" letter-spacing="1.5">IN</text>
+    <text x="710" y="241" class="mono" fill="#9C8E7B" font-size="11" letter-spacing="1.5">IN</text>
     <rect x="736" y="222" width="86" height="28" rx="14" fill="url(#accent)"/>
-    <text x="779" y="241" fill="#140D22" font-size="12" font-weight="700" text-anchor="middle">Figma</text>
+    <text x="779" y="241" fill="#050505" font-size="12" font-weight="700" text-anchor="middle">Figma</text>
   </g>
 </svg>

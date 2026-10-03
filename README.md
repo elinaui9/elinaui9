@@ -1,11 +1,11 @@
 <!-- ░░ Header ░░ -->
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Animated design canvas: a pen-tool curve, a selected component, and floating shapes in purple" />
+  <img src="./assets/hero.svg" width="100%" alt="Animated design canvas: a pen-tool curve, a selected component, and floating shapes in black, white and cream" />
 </p>
 
 <p align="center">
   <a href="https://elinaui.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Clear+systems.+Thoughtful+interactions.;Interfaces+that+feel+effortless.;Messy+product+problems+%E2%86%92+calm+experiences." alt="Clear systems. Thoughtful interactions. Interfaces that feel effortless." />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=D8CBB7&center=true&vCenter=true&width=640&lines=Clear+systems.+Thoughtful+interactions.;Interfaces+that+feel+effortless.;Messy+product+problems+%E2%86%92+calm+experiences." alt="Clear systems. Thoughtful interactions. Interfaces that feel effortless." />
   </a>
 </p>
 
@@ -40,7 +40,7 @@ Mostly designing **SaaS products, dashboards, marketplaces, and digital platform
 </p>
 
 <p align="center">
-  <img src="./assets/color-tokens.svg" width="100%" alt="Purple color tokens from 100 to 900" />
+  <img src="./assets/color-tokens.svg" width="100%" alt="Color tokens: Deep Black, Soft Black, Marble White, Warm Cream, Stone Cream" />
 </p>
 
 <br>
@@ -48,12 +48,12 @@ Mostly designing **SaaS products, dashboards, marketplaces, and digital platform
 ### Elsewhere
 
 <p align="center">
-  <a href="https://elinaui.com/"><img src="https://img.shields.io/badge/Portfolio-1E1530?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" alt="Portfolio" /></a>
-  <a href="https://www.figma.com/@elinaui9"><img src="https://img.shields.io/badge/Figma-1E1530?style=for-the-badge&logo=figma&logoColor=A78BFA" alt="Figma" /></a>
-  <a href="https://dribbble.com/Elinaui"><img src="https://img.shields.io/badge/Dribbble-1E1530?style=for-the-badge&logo=dribbble&logoColor=A78BFA" alt="Dribbble" /></a>
-  <a href="https://www.behance.net/elinam7"><img src="https://img.shields.io/badge/Behance-1E1530?style=for-the-badge&logo=behance&logoColor=A78BFA" alt="Behance" /></a>
-  <a href="https://www.linkedin.com/in/elinaui"><img src="https://img.shields.io/badge/LinkedIn-1E1530?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0E3OEJGQSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/elina.ui9"><img src="https://img.shields.io/badge/Instagram-1E1530?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram" /></a>
+  <a href="https://elinaui.com/"><img src="https://img.shields.io/badge/Portfolio-11100E?style=for-the-badge&logo=googlechrome&logoColor=D8CBB7" alt="Portfolio" /></a>
+  <a href="https://www.figma.com/@elinaui9"><img src="https://img.shields.io/badge/Figma-11100E?style=for-the-badge&logo=figma&logoColor=D8CBB7" alt="Figma" /></a>
+  <a href="https://dribbble.com/Elinaui"><img src="https://img.shields.io/badge/Dribbble-11100E?style=for-the-badge&logo=dribbble&logoColor=D8CBB7" alt="Dribbble" /></a>
+  <a href="https://www.behance.net/elinam7"><img src="https://img.shields.io/badge/Behance-11100E?style=for-the-badge&logo=behance&logoColor=D8CBB7" alt="Behance" /></a>
+  <a href="https://www.linkedin.com/in/elinaui"><img src="https://img.shields.io/badge/LinkedIn-11100E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Q4Q0JCNyIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/elina.ui9"><img src="https://img.shields.io/badge/Instagram-11100E?style=for-the-badge&logo=instagram&logoColor=D8CBB7" alt="Instagram" /></a>
 </p>
 
 <br>
@@ -63,8 +63,8 @@ Mostly designing **SaaS products, dashboards, marketplaces, and digital platform
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elinaui9&color=7c3aed&style=flat-square&label=profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=elinaui9&color=9c8e7b&style=flat-square&label=profile+views" alt="Profile views" />
 </p>
 
 <!-- ░░ Footer ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,50:7C3AED,100:4C1D95&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8CBB7,50:9C8E7B,100:11100E&height=110&section=footer" width="100%" alt="" />

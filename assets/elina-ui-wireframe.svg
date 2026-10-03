@@ -4,15 +4,15 @@
 
   <defs>
     <style>
-      .bg { fill:#0D1117; }
-      .frame { fill:none; stroke:#30363D; stroke-width:1.2; }
-      .soft { fill:#161B22; stroke:#2F3942; stroke-width:1; }
-      .line { stroke:#6E7681; stroke-width:1; fill:none; }
-      .muted { fill:#8B949E; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
-      .accent { fill:#A78BFA; }
-      .accent-stroke { stroke:#A78BFA; stroke-width:1.5; fill:none; }
-      .light { fill:#C9D1D9; }
-      .chip { fill:#21262D; stroke:#30363D; stroke-width:1; }
+      .bg { fill:#050505; }
+      .frame { fill:none; stroke:rgba(244,242,237,.14); stroke-width:1.2; }
+      .soft { fill:#11100E; stroke:rgba(244,242,237,.14); stroke-width:1; }
+      .line { stroke:#9C8E7B; stroke-width:1; fill:none; }
+      .muted { fill:#9C8E7B; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .accent { fill:#D8CBB7; }
+      .accent-stroke { stroke:#D8CBB7; stroke-width:1.5; fill:none; }
+      .light { fill:#D8CBB7; }
+      .chip { fill:#11100E; stroke:rgba(244,242,237,.14); stroke-width:1; }
     </style>
   </defs>
 
@@ -35,18 +35,18 @@
     <!-- wireframe overlay fades out -->
     <g opacity="1">
       <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.24;0.4;0.86;1" dur="7s" repeatCount="indefinite"/>
-      <rect x="198" y="94" width="98" height="11" rx="5.5" fill="none" stroke="#6E7681" stroke-dasharray="4 4"/>
-      <rect x="198" y="115" width="146" height="7" rx="3.5" fill="none" stroke="#6E7681" stroke-dasharray="4 4"/>
-      <rect x="198" y="129" width="116" height="7" rx="3.5" fill="none" stroke="#6E7681" stroke-dasharray="4 4"/>
-      <rect x="198" y="145" width="58" height="18" rx="9" fill="none" stroke="#6E7681" stroke-dasharray="4 4"/>
+      <rect x="198" y="94" width="98" height="11" rx="5.5" fill="none" stroke="#9C8E7B" stroke-dasharray="4 4"/>
+      <rect x="198" y="115" width="146" height="7" rx="3.5" fill="none" stroke="#9C8E7B" stroke-dasharray="4 4"/>
+      <rect x="198" y="129" width="116" height="7" rx="3.5" fill="none" stroke="#9C8E7B" stroke-dasharray="4 4"/>
+      <rect x="198" y="145" width="58" height="18" rx="9" fill="none" stroke="#9C8E7B" stroke-dasharray="4 4"/>
     </g>
 
     <!-- polished UI fades in -->
     <g opacity="0">
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.22;0.42;0.86;1" dur="7s" repeatCount="indefinite"/>
       <rect x="198" y="94" width="103" height="11" rx="5.5" class="light"/>
-      <rect x="198" y="115" width="150" height="7" rx="3.5" fill="#6E7681"/>
-      <rect x="198" y="129" width="118" height="7" rx="3.5" fill="#6E7681" opacity=".75"/>
+      <rect x="198" y="115" width="150" height="7" rx="3.5" fill="#9C8E7B"/>
+      <rect x="198" y="129" width="118" height="7" rx="3.5" fill="#9C8E7B" opacity=".75"/>
       <rect x="198" y="145" width="62" height="18" rx="9" class="chip"/>
       <text x="229" y="158" class="muted" font-size="9" text-anchor="middle">FRAME</text>
     </g>
@@ -82,7 +82,7 @@
       values="-10 0;0 0;18 0;40 0;40 0;0 0;-10 0"
       keyTimes="0;0.14;0.32;0.52;0.72;0.88;1"
       dur="7s" repeatCount="indefinite"/>
-    <path d="M455 116 L455 140 L462 133.2 L467.5 144.2 L473 141.4 L467.4 130.6 L477.4 129.6 Z" fill="#F0F6FC" stroke="#0D1117" stroke-width="1.4"/>
+    <path d="M455 116 L455 140 L462 133.2 L467.5 144.2 L473 141.4 L467.4 130.6 L477.4 129.6 Z" fill="#F4F2ED" stroke="#050505" stroke-width="1.4"/>
   </g>
 
   <!-- subtle footer -->
