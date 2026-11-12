@@ -45,6 +45,16 @@ Mostly designing **SaaS products, dashboards, marketplaces, and digital platform
 
 <br>
 
+### Showing up
+
+<p align="center">
+  <a href="https://github.com/elinaui9">
+    <img src="https://streak-stats.demolab.com/?user=elinaui9&background=11100E&border=2A2723&stroke=2A2723&ring=D8CBB7&fire=D8CBB7&currStreakNum=F4F2ED&sideNums=F4F2ED&currStreakLabel=D8CBB7&sideLabels=9C8E7B&dates=9C8E7B&border_radius=16" width="100%" alt="GitHub contribution streak: total contributions, current streak and longest streak" />
+  </a>
+</p>
+
+<br>
+
 ### Elsewhere
 
 <p align="center">
