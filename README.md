@@ -5,7 +5,10 @@
 
 <p align="center">
   <a href="https://elinaui.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=D8CBB7&center=true&vCenter=true&width=640&lines=Clear+systems.+Thoughtful+interactions.;Interfaces+that+feel+effortless.;Messy+product+problems+%E2%86%92+calm+experiences." alt="Clear systems. Thoughtful interactions. Interfaces that feel effortless." />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=D8CBB7&center=true&vCenter=true&width=640&lines=Clear+systems.+Thoughtful+interactions.;Interfaces+that+feel+effortless.;Messy+product+problems+%E2%86%92+calm+experiences." />
+      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=6E6252&center=true&vCenter=true&width=640&lines=Clear+systems.+Thoughtful+interactions.;Interfaces+that+feel+effortless.;Messy+product+problems+%E2%86%92+calm+experiences." alt="Clear systems. Thoughtful interactions. Interfaces that feel effortless." />
+    </picture>
   </a>
 </p>
 
@@ -26,10 +29,6 @@ I spend most of my time turning messy product problems into calm, usable digital
 <p align="center">
   <img src="./assets/what-i-do.svg" width="100%" alt="Product Design, UI/UX, Design Systems, Prototyping — mostly SaaS products, dashboards, marketplaces and digital platforms in Figma" />
 </p>
-
-`Product Design` · `UI/UX` · `Design Systems` · `Prototyping`
-
-Mostly designing **SaaS products, dashboards, marketplaces, and digital platforms** in Figma.
 
 <br>
 
@@ -69,7 +68,7 @@ Mostly designing **SaaS products, dashboards, marketplaces, and digital platform
 <br>
 
 <p align="center">
-  <img src="./assets/designer-working-transparent.gif" width="180" alt="Elina designing on her MacBook" />
+  <img src="./assets/designer-working-transparent.gif" width="240" alt="Elina designing on her MacBook" />
 </p>
 
 <p align="center">
